@@ -1,0 +1,7 @@
+Usage:
+
+On windows:
+Terminal Command: py -3 check_password.py *enter password here*
+
+On MAC / Linux: 
+Terminal Command: python3 check_password.py *enter password here*
